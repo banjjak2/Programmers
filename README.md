@@ -105,4 +105,7 @@ https://github.com/banjjak2/Programmers/blob/main/Level1/%ED%8F%B0%EC%BC%93%EB%A
     중복제거한 데이터의 길이를 반환
   - nums 데이터 길이의 절반이 중복제거한 데이터의 길이보다 더 클 경우 최대 선택 가능한 종류 개수가 데이터 반절의 길이이므로
     데이터 반절의 길이를 반환
-    
+
+소수 만들기 (21. 08. 22)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%86%8C%EC%88%98_%EB%A7%8C%EB%93%A4%EA%B8%B0.java
+  - 조합을 이용하여 구현
