@@ -118,3 +118,19 @@ https://github.com/banjjak2/Programmers/blob/main/Level1/%EB%AA%A8%EC%9D%98%EA%B
 https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.java
   - HashMap을 이용해서 풀이
   - 다른 풀이에 비해 속도면에서 성능이 안좋음. 원인파악 후 재풀이 예정
+
+3진법 뒤집기 (21. 08. 25)
+https://github.com/banjjak2/Programmers/blob/main/Level1/_3%EC%A7%84%EB%B2%95_%EB%92%A4%EC%A7%91%EA%B8%B0.java
+  - StringBuilder와 거듭제곱 기능으로 해결
+
+두 개 뽑아서 더하기 (21. 08. 25)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EB%91%90_%EA%B0%9C_%EB%BD%91%EC%95%84%EC%84%9C_%EB%8D%94%ED%95%98%EA%B8%B0.java
+  - 조합을 이용해 해결
+
+약수의 개수와 덧셈 (21. 08. 25)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%95%BD%EC%88%98%EC%9D%98_%EA%B0%9C%EC%88%98%EC%99%80_%EB%8D%A7%EC%85%88.java
+  - 약수의 개수를 구한 후 더함
+
+예산 (21. 08. 25)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%98%88%EC%82%B0.java
+  - 신청금액을 sort 한 후 신청금액 배열의 앞에서부터 빼서 해결
