@@ -65,7 +65,7 @@ https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%B2%B4%EC%9C%A1%EB%B
 
 ------------------------------------------------------------------------------------------
 
-<span style="color:red">K번째 수 (21. 08. 14)</span>
+<span style="color:red">K번째 수 (21. 08. 14) - 재풀이</span>
 sort 메소드 사용 : https://github.com/banjjak2/Programmers/blob/main/Level1/K%EB%B2%88%EC%A7%B8%EC%88%98_sort%EB%A9%94%EC%86%8C%EB%93%9C%EC%9D%B4%EC%9A%A9.java
 
 sort 메소드 구현 : X
@@ -114,7 +114,7 @@ https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%86%8C%EC%88%98_%EB%
 https://github.com/banjjak2/Programmers/blob/main/Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.java
   - 수포자 1, 2, 3이 맞은 정답 개수를 correctCount 배열에 넣고 배열 중 최대값을 구하여 동일한 값이 몇 개인지 판별 후 해당 수포자 번호 반환
 
-<span style="color:red">실패율 (21. 08. 24)</span>
+<span style="color:red">실패율 (21. 08. 24) - 재풀이</span>
 https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.java
   - HashMap을 이용해서 풀이
   - 다른 풀이에 비해 속도면에서 성능이 안좋음. 원인파악 후 재풀이 예정
