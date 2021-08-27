@@ -134,3 +134,11 @@ https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%95%BD%EC%88%98%EC%9
 예산 (21. 08. 25)
 https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%98%88%EC%82%B0.java
   - 신청금액을 sort 한 후 신청금액 배열의 앞에서부터 빼서 해결
+
+1차 비밀지도 (21. 08. 27)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84_1%EC%B0%A8.java
+  - arr1과 arr2의 각 데이터들을 비트연산(OR) 후 결과값을 가지고 2진화하여 0이면 " ", 1이면 "#"으로 추가
+
+가운데 글자 가져오기 (21. 08. 27)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EA%B0%80%EC%9A%B4%EB%8D%B0_%EA%B8%80%EC%9E%90_%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.java
+  - substring 메소드 이용
