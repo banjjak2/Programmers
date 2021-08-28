@@ -142,3 +142,7 @@ https://github.com/banjjak2/Programmers/blob/main/Level1/%EB%B9%84%EB%B0%80%EC%A
 가운데 글자 가져오기 (21. 08. 27)
 https://github.com/banjjak2/Programmers/blob/main/Level1/%EA%B0%80%EC%9A%B4%EB%8D%B0_%EA%B8%80%EC%9E%90_%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.java
   - substring 메소드 이용
+
+다트게임 1차 (21. 08. 28)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84_1%EC%B0%A8.java
+  - 문자열에서 char값을 하나씩 가져오면서 switch 문으로 값 판단
