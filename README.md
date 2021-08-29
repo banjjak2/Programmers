@@ -146,3 +146,14 @@ https://github.com/banjjak2/Programmers/blob/main/Level1/%EA%B0%80%EC%9A%B4%EB%8
 다트게임 1차 (21. 08. 28)
 https://github.com/banjjak2/Programmers/blob/main/Level1/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84_1%EC%B0%A8.java
   - 문자열에서 char값을 하나씩 가져오면서 switch 문으로 값 판단
+
+같은 숫자는 싫어 (21. 08. 29)
+  - 현재값과 이전값을 비교하여 다르면 List에 추가
+  - 완성된 List를 배열로 변환
+
+나누어 떨어지는 숫자 배열 (21. 08. 29)
+  - divisor로 나누어지는 값을 리스트에 저장
+  - 리스트값을 하나씩 가져와 Collections.sort 메소드로 정렬 후 다시 배열로 반환
+
+두 정수 사이의 합 (21. 08. 29)
+  - 전달받을 a, b에는 대소관계가 정해지지 않아 대소판단 후 사이값들의 총합을 구함
