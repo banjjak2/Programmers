@@ -148,12 +148,42 @@ https://github.com/banjjak2/Programmers/blob/main/Level1/%EB%8B%A4%ED%8A%B8%EA%B
   - 문자열에서 char값을 하나씩 가져오면서 switch 문으로 값 판단
 
 같은 숫자는 싫어 (21. 08. 29)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EA%B0%99%EC%9D%80_%EC%88%AB%EC%9E%90%EB%8A%94_%EC%8B%AB%EC%96%B4.java
   - 현재값과 이전값을 비교하여 다르면 List에 추가
   - 완성된 List를 배열로 변환
 
 나누어 떨어지는 숫자 배열 (21. 08. 29)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EB%82%98%EB%88%84%EC%96%B4_%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94_%EC%88%AB%EC%9E%90_%EB%B0%B0%EC%97%B4.java
   - divisor로 나누어지는 값을 리스트에 저장
   - 리스트값을 하나씩 가져와 Collections.sort 메소드로 정렬 후 다시 배열로 반환
 
 두 정수 사이의 합 (21. 08. 29)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EB%91%90_%EC%A0%95%EC%88%98_%EC%82%AC%EC%9D%B4%EC%9D%98_%ED%95%A9.java
   - 전달받을 a, b에는 대소관계가 정해지지 않아 대소판단 후 사이값들의 총합을 구함
+
+문자열 내 마음대로 정렬하기 (21. 08. 30)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%82%B4_%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C_%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java
+  - 먼저 사전순으로 정렬한 후 특정 문자를 기준으로 정렬
+  - 사전순으로 먼저 정렬하면 특정 문자를 기준으로 정렬할 때 동일한 문자가 있어도 사전순으로 정렬됨
+
+문자열 내 p와 y의 개수 (21. 08. 30)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%82%B4_p%EC%99%80_y%EC%9D%98_%EA%B0%9C%EC%88%98.java
+  - 문자열을 소문자로 변환 후 p, y 비교
+
+문자열 내림차순으로 배치하기 (21. 08. 30)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C_%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.java
+  - String을 char배열로 변환 후 StringBuilder를 이용해 문자열을 붙여넣어 반환
+
+문자열 다루기 기본 (21. 08. 30)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EA%B8%B0%EB%B3%B8.java
+  - 정규표현식으로 문제풀이 진행
+
+서울에서 김서방 찾기 (21. 08. 30)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C_%EA%B9%80%EC%84%9C%EB%B0%A9_%EC%B0%BE%EA%B8%B0.java
+  - 배열을 하나씩 돌면서 Kim을 찾은 후 인덱스를 반환
+
+소수 찾기 (21. 08. 30)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%86%8C%EC%88%98_%EC%B0%BE%EA%B8%B0.java
+https://banjjak1.tistory.com/17
+  - "에라토스테네스의 체"를 이용하여 소수 판별
+  - 큰 수가 소수인지 판별하는 방법으로, 2의 배수부터 지우고(자기자신 제외) 다음 숫자 3의 배수를 지우며(자기자신 제외) 이미 지워진 숫자에 접근한 경우 다음 숫자로 넘어가도록 함
