@@ -187,3 +187,18 @@ https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%86%8C%EC%88%98_%EC%
 https://banjjak1.tistory.com/17
   - "에라토스테네스의 체"를 이용하여 소수 판별
   - 큰 수가 소수인지 판별하는 방법으로, 2의 배수부터 지우고(자기자신 제외) 다음 숫자 3의 배수를 지우며(자기자신 제외) 이미 지워진 숫자에 접근한 경우 다음 숫자로 넘어가도록 함
+
+수박수박수박수박수박수 (21. 08. 31)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.java
+  - 나머지 연산으로 판단 후 문자열 조합하여 리턴
+
+문자열을 정수로 바꾸기 (21. 08. 31)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84_%EC%A0%95%EC%88%98%EB%A1%9C_%EB%B0%94%EA%BE%B8%EA%B8%B0.java
+  - Integer.parseInt 메소드로 숫자 리턴
+  - 웬만하면 java에서 제공하는 메소드보단 직접 구현해서 해보기
+
+시저암호 (21. 08. 31)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%8B%9C%EC%A0%80_%EC%95%94%ED%98%B8.java
+  - String에서 문자를 하나씩 가져와 n만큼 이동한 값이 'z'보다 크면 문자+n 에서 'z'를 뺀다.
+    그럼 'a'에서 얼만큼 더 가야하는지에 대한 값이 나오므로 문자'a'에 앞서 구한 값을 더하고 -1을 해주면 n만큼 이동한 값이 나온다.
+    대문자 'Z'도 마찬가지로 가능하다.
