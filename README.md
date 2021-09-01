@@ -202,3 +202,25 @@ https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%8B%9C%EC%A0%80_%EC%
   - String에서 문자를 하나씩 가져와 n만큼 이동한 값이 'z'보다 크면 문자+n 에서 'z'를 뺀다.
     그럼 'a'에서 얼만큼 더 가야하는지에 대한 값이 나오므로 문자'a'에 앞서 구한 값을 더하고 -1을 해주면 n만큼 이동한 값이 나온다.
     대문자 'Z'도 마찬가지로 가능하다.
+
+약수의 합 (21. 09. 01)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%95%BD%EC%88%98%EC%9D%98_%ED%95%A9.java
+https://banjjak1.tistory.com/18
+  - 약수는 전달받은 숫자/2 보다 클 수 없으므로 for문 조건에 n/2를 해주어야 함
+  - 위 생각을 못하고 단순하게 작성..
+
+이상한 문자 만들기 (21. 09. 01)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%9D%B4%EC%83%81%ED%95%9C_%EB%AC%B8%EC%9E%90_%EB%A7%8C%EB%93%A4%EA%B8%B0.java
+  - 짝수번째인 경우 대문자로 변환
+  - 홀수번째인 경우 소문자로 변환
+  - toLowerCase(), toUpperCase() 메소드 이용하지 않고 알파벳 범위 정해서 구현
+
+자릿수 더하기 (21. 09. 01)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%9E%90%EB%A6%BF%EC%88%98_%EB%8D%94%ED%95%98%EA%B8%B0.java
+  - 단순히 각 자리수를 더하는 것이기 때문에 나머지 연산과 나누기 연산을 이용해서 빠르게 풀 수 있었으나
+    생각하지 못해서 문자열로 변환 후 다시 숫자로 반환..
+  - 반성하자
+
+자연수 뒤집어 배열로 만들기 (21. 09. 01)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%9E%90%EC%97%B0%EC%88%98_%EB%92%A4%EC%A7%91%EC%96%B4_%EB%B0%B0%EC%97%B4%EB%A1%9C_%EB%A7%8C%EB%93%A4%EA%B8%B0.java
+  - answer의 배열 길이를 정해주고 반복문을 통해 나머지 연산과 나누기 연산을 이용해 배열에 저장
