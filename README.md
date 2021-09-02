@@ -224,3 +224,41 @@ https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%9E%90%EB%A6%BF%EC%8
 자연수 뒤집어 배열로 만들기 (21. 09. 01)
 https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%9E%90%EC%97%B0%EC%88%98_%EB%92%A4%EC%A7%91%EC%96%B4_%EB%B0%B0%EC%97%B4%EB%A1%9C_%EB%A7%8C%EB%93%A4%EA%B8%B0.java
   - answer의 배열 길이를 정해주고 반복문을 통해 나머지 연산과 나누기 연산을 이용해 배열에 저장
+
+최대공약수와 최소공배수 (21. 09. 02)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.java
+  - 소인수분해를 이용한 풀이와 유클리드 호제법을 이용한 풀이 둘 다 작성
+
+콜라츠 추측 (21. 09. 02)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%BD%9C%EB%9D%BC%EC%B8%A0_%EC%B6%94%EC%B8%A1.java
+  - 짝수면 /2, 홀수면 *3 후 + 1
+
+평균 구하기 (21. 09. 02)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%ED%8F%89%EA%B7%A0_%EA%B5%AC%ED%95%98%EA%B8%B0.java
+  - 배열의 모든값을 더해서 평균을 반환
+
+하샤드 수 (21. 09. 02)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%ED%95%98%EC%83%A4%EB%93%9C_%EC%88%98.java
+  - 나머지 연산을 통해 각 자리의 숫자를 더해주고 하샤드 수인지 계산
+
+핸드폰 번호 가리기 (21. 09. 02)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%ED%95%B8%EB%93%9C%ED%8F%B0_%EB%B2%88%ED%98%B8_%EA%B0%80%EB%A6%AC%EA%B8%B0.java
+  - StringBuilder로 변환 후 끝 4자리를 제외하고 '*' 처리
+
+행렬의 덧셈 (21. 09. 02)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%ED%96%89%EB%A0%AC%EC%9D%98_%EB%8D%A7%EC%85%88.java
+  - 이중 for문으로 2차원 배열 arr1, arr2에 접근 후 더하여 answer에 저장
+
+x만큼 간격이 있는 n개의 숫자 (21. 09. 02)
+https://github.com/banjjak2/Programmers/blob/main/Level1/x%EB%A7%8C%ED%81%BC_%EA%B0%84%EA%B2%A9%EC%9D%B4_%EC%9E%88%EB%8A%94_n%EA%B0%9C%EC%9D%98_%EC%88%AB%EC%9E%90.java
+  - int + long 의 경우 결과값이 long으로 연산결과가 나온다.
+    int + int 의 경우 결과값이 long으로 연산결과가 나온다.
+    따라서 인자값을 int형에서 long으로 바꿔주면 해결 가능하다.
+
+직사각형 별찍기 (21. 09. 02)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95_%EB%B3%84%EC%B0%8D%EA%B8%B0.java
+  - 구구단과 비슷한 이중포문 반복문제
+
+위클리챌린지 4주차 (21. 09. 02)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%9C%84%ED%81%B4%EB%A6%AC%EC%B1%8C%EB%A6%B0%EC%A7%80_4%EC%A3%BC%EC%B0%A8.java
+  - 직업을 class화 해서 풀이했으나 다른 풀이보다 성능 및 코드길이가 좋지않음..ㅠㅠ
