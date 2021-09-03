@@ -1,6 +1,7 @@
 # Programmers
 알고리즘 문제풀이
 
+# LEVEL 1
 신규아이디추천 (21. 07. 13)
 https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C.java
   - 정규표현식 이용해서 각 스텝별로 구현
@@ -262,3 +263,15 @@ https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%A7%81%EC%82%AC%EA%B
 위클리챌린지 4주차 (21. 09. 02)
 https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%9C%84%ED%81%B4%EB%A6%AC%EC%B1%8C%EB%A6%B0%EC%A7%80_4%EC%A3%BC%EC%B0%A8.java
   - 직업을 class화 해서 풀이했으나 다른 풀이보다 성능 및 코드길이가 좋지않음..ㅠㅠ
+
+정수 내림차순으로 배치하기 (21. 09. 03)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%A0%95%EC%88%98_%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C_%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.java
+  - 숫자를 문자열로 변환 후 split으로 잘라 각 숫자들을 내림차순으로 정렬하고 split으로 자른 배열을 숫자 형태로 변환
+
+정수 제곱근 판별 (21. 09. 03)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%A0%95%EC%88%98_%EC%A0%9C%EA%B3%B1%EA%B7%BC_%ED%8C%90%EB%B3%84.java
+  - 전달받은 숫자를 Math.sqrt 메소드를 이용해 루트연산하고 1로 나눈 나머지가 0보다 크면 제곱근이 아니라 판단하여 -1 반환, 0이면 제곱근으로 판단하고 결과값 반환
+
+짝수와 홀수 (21. 09. 03)
+https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%A7%9D%EC%88%98%EC%99%80_%ED%99%80%EC%88%98.java
+  - 단순히 나머지 연산을 통해 짝수인지 홀수인지 판단하는 문제
