@@ -280,9 +280,17 @@ https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%A7%9D%EC%88%98%EC%9
 https://github.com/banjjak2/Programmers/blob/main/Level1/%EC%A0%9C%EC%9D%BC_%EC%9E%91%EC%9D%80_%EC%88%98_%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.java
   - 가장 작은 수를 구하고 answer 배열에 저장할 때 해당 작은 수를 제외하고 저장
 
-문자열 압축
+
+
+# Level 2
+문자열 압축 (21. 09. 05)
 https://github.com/banjjak2/Programmers/blob/main/Level2/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%95%95%EC%B6%95.java
   - 한 번에 몇개씩 묶을 수 있는지 판단할 때 최대 문자열 길이 / 2 만큼만 확인 (절반이 넘어가면 뒷 문자의 개수가 모자르기 때문)
   - 자를 문자열 개수만큼 반복해서 현재 문자열과 다음 문자열을 비교하고 동일하면 개수를 추가해준다.
     (자를 문자열 개수는 계속 증가됨)
   - 중복됐다는 숫자가 1자리 이상 나올 수 있으므로 해당 부분도 처리
+
+오픈채팅방 (21. 09. 06)
+https://github.com/banjjak2/Programmers/blob/main/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java
+  - 사용자들의 uid, nickname 저장하는 클래스를 생성해서 전역변수로 설정 (내부에서 HashMap 사용)
+  - 사용자들의 입/퇴장관련 클래스를 생성하고 List로 관리
