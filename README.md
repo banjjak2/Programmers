@@ -402,3 +402,13 @@ https://github.com/banjjak2/Programmers/blob/main/Level2/%EB%A9%94%EB%89%B4_%EB%
   - 조합 (nCr)을 이용하여 풀이
   - HashMap을 이용해서 개수 카운트
   - orders가 XYZ 알파벳 순서가 아닌 YXZ 와 같이 랜덤으로 올 수 있으므로 원본 데이터를 저장한 후 sort하여 HashMap에 저장
+
+------------------------------------------------------------------------------------------
+
+멀쩡한 사각형 (21. 09. 15)
+https://github.com/banjjak2/Programmers/blob/main/Level2/%EB%A9%80%EC%A9%A1%ED%95%9C_%EC%82%AC%EA%B0%81%ED%98%95.java
+https://banjjak1.tistory.com/23
+  - 패턴의 개수 : 가로, 세로의 최대공약수
+    패턴당 가로의 개수 : 가로 / 최대공약수
+    패턴당 세로의 개수 : 세로 / 최대공약수
+    패턴당 사용하지 못하는 개수 : 패턴의 가로 + 세로 - 1
