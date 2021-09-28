@@ -464,7 +464,7 @@ https://github.com/banjjak2/Programmers/blob/main/Level2/%ED%96%89%EB%A0%AC_%ED%
 ------------------------------------------------------------------------------------------
 
 괄호 변환 (21. 09. 23)
-
+https://github.com/banjjak2/Programmers/blob/main/Level2/%EA%B4%84%ED%98%B8_%EB%B3%80%ED%99%98.java
   - 처음으로 (, ) 개수가 같아졌을 때 해당 부분까지를 u, 나머지를 v로 결정
   - (, )의 개수가 같아질 때까지 ) 문자가 ( 문자보다 많이나온 적이 있다면 올바른 괄호 문자열이 아님
   - 나머지는 알고리즘대로 구현 진행
@@ -472,7 +472,7 @@ https://github.com/banjjak2/Programmers/blob/main/Level2/%ED%96%89%EB%A0%AC_%ED%
 ------------------------------------------------------------------------------------------
 
 뉴스 클러스터링 (21. 09. 24)
-
+https://github.com/banjjak2/Programmers/blob/main/Level2/%EB%89%B4%EC%8A%A4_%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.java
   - 전달 문자열을 소문자로 변환
   - 문제 내용대로 문자열을 잘라서 리스트에 추가
   - 합집합 개수 구하기
@@ -482,7 +482,7 @@ https://github.com/banjjak2/Programmers/blob/main/Level2/%ED%96%89%EB%A0%AC_%ED%
 ------------------------------------------------------------------------------------------
 
 거리두기 확인하기 (21. 09. 26)
-
+https://github.com/banjjak2/Programmers/blob/main/Level2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.java
   - 응시자 좌표와 파티션 좌표를 구함
   - 재귀를 통해 해당 응시자와 다른 응시자들이 거리두기를 실천하는지 확인
   - Row만 다른 경우, Column만 다른 경우, Row + Column 만 다른 경우 3가지의 조건을 이용해 검색
@@ -490,7 +490,7 @@ https://github.com/banjjak2/Programmers/blob/main/Level2/%ED%96%89%EB%A0%AC_%ED%
 ------------------------------------------------------------------------------------------
 
 튜플 (21. 09. 28)
-
+https://github.com/banjjak2/Programmers/blob/main/Level2/%ED%8A%9C%ED%94%8C.java
   - {, } 인 경우 다음 인덱스로 이동
   - 숫자인 경우 StringBuilder에 추가
   - 다음 인덱스가 숫자가 아니면 list에 추가 (숫자인 경우 10의 자리 이상이므로)
@@ -502,7 +502,7 @@ https://github.com/banjjak2/Programmers/blob/main/Level2/%ED%96%89%EB%A0%AC_%ED%
 ------------------------------------------------------------------------------------------
 
 전화번호 목록 (21. 09. 28)
-
+https://github.com/banjjak2/Programmers/blob/main/Level2/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EB%AA%A9%EB%A1%9D.java
   - 2중 for문을 이용하여 모든 문자열들을 비교하면서 해당 번호로 시작하는 것이 있는지 확인
   - 문자열 배열을 정렬할 경우 사전순으로 정렬되기 때문에 금방 끝날 수 있다.
 
