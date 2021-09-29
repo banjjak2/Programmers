@@ -510,4 +510,12 @@ https://github.com/banjjak2/Programmers/blob/main/Level2/%EC%A0%84%ED%99%94%EB%B
     containsKey를 통해 해당 문자열이 HashMap 키에 존재하는지 확인하고 있다면 false를 반환한다.
   - 문제는 Hash 카테고리이지만 2중 for문으로 풀었었다.
     다른 분들이 HashMap을 이용해 풀이한 내용을 보니 기발하다는 생각뿐이었다..
-    
+
+------------------------------------------------------------------------------------------
+
+프린터 (21. 09. 29)
+https://github.com/banjjak2/Programmers/blob/main/Level2/프린터.java
+  - queue에서 remove한 데이터보다 큰 값이 있는지 확인
+    큰 값이 있을 경우 뒤에 다시 추가한 후 location값 -1
+    대기열에 remove한 값보다 큰 값이 없고 location값이 0인 경우 맨 앞자리이므로 빠져나옴
+    location값이 0이 아니며 인쇄할 데이터 뒤의 대기열 중 큰 값이 없으면 해당 우선순위에서 해당 순위 제거
