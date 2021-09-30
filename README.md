@@ -516,6 +516,15 @@ https://github.com/banjjak2/Programmers/blob/main/Level2/%EC%A0%84%ED%99%94%EB%B
 프린터 (21. 09. 29)
 https://github.com/banjjak2/Programmers/blob/main/Level2/프린터.java
   - queue에서 remove한 데이터보다 큰 값이 있는지 확인
-    큰 값이 있을 경우 뒤에 다시 추가한 후 location값 -1
-    대기열에 remove한 값보다 큰 값이 없고 location값이 0인 경우 맨 앞자리이므로 빠져나옴
-    location값이 0이 아니며 인쇄할 데이터 뒤의 대기열 중 큰 값이 없으면 해당 우선순위에서 해당 순위 제거
+  - 큰 값이 있을 경우 뒤에 다시 추가한 후 location값 -1
+  - 대기열에 remove한 값보다 큰 값이 없고 location값이 0인 경우 맨 앞자리이므로 빠져나옴
+  - location값이 0이 아니며 인쇄할 데이터 뒤의 대기열 중 큰 값이 없으면 해당 우선순위에서 해당 순위 제거
+
+------------------------------------------------------------------------------------------
+
+가장 큰 수 (21. 09. 30)
+https://github.com/banjjak2/Programmers/blob/main/Level2/가장_큰_수.java
+  - Arrays.sort 메소드에 Comparator를 선언하고 compare을 override함
+  - 앞, 뒤 문자를 연결해서 숫자로 변환 후 0, -1, 1로 반환하도록 구현
+  - sort 후 맨 앞자리가 0이면 바로 0으로 리턴
+  - 0이 아니면 문자열을 이어 answer에 저장
