@@ -561,3 +561,8 @@ https://github.com/banjjak2/Programmers/blob/main/Level2/예상_대진표.java
   - 대진표에서 각 라운드마다 /2가 되고 뽑은 것들을 다시 1부터 세팅하면 두 수가 같게되는 경우가 생기는데 그 횟수가 정답이 됨
   - 즉, 현재값이 홀수일 경우 +1 후 /2를 하고, 짝수인 경우 /2
   - 두 값이 같아지면 서로 겨루는 것
+
+수식 최대화 (21. 10. 18)
+https://github.com/banjjak2/Programmers/blob/main/Level2/수식_최대화.java
+  - 중위 표기법을 후위 표기법으로 변환 후 계산
+  - 계산된 결과를 max값과 비교
