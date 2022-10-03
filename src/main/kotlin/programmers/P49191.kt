@@ -1,3 +1,5 @@
+package programmers
+
 class P49191 {
     fun solution(n: Int, results: Array<IntArray>): Int {
         var answer = 0

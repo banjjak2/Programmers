@@ -1,3 +1,5 @@
+package programmers
+
 class P70129 {
     class Solution {
         fun solution(s: String): IntArray {

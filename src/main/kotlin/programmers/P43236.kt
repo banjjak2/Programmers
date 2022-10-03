@@ -1,3 +1,5 @@
+package programmers
+
 import java.lang.Integer.max
 
 class P43236 {

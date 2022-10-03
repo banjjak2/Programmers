@@ -1,3 +1,5 @@
+package programmers
+
 class P12939 {
     class Solution {
         fun solution(s: String): String {

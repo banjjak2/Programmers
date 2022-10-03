@@ -1,3 +1,5 @@
+package programmers;
+
 public class P12911 {
     static class Solution {
         public int solution(int n) {
